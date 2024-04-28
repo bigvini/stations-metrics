@@ -1,0 +1,35 @@
+html {
+    margin:0 auto;
+}
+
+body {
+    text-align: center;
+}
+
+.header {
+    background-color: rgb(126, 126, 126);
+    padding:20px 0;
+}
+
+.button {
+    padding: 10px 20px; 
+    font-size: 16px; 
+}
+
+.button:hover {
+   background-color: #b8fffb; 
+}
+
+
+.station {
+    margin: 0 auto;
+    text-align: left;
+}
+
+
+.station:hover {
+    background-color: aqua;
+    color: #ff0000;
+    font-weight: bold; 
+    
+}
